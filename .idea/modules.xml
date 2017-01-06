@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApplicationMain/ApplicationMain.iml" filepath="$PROJECT_DIR$/ApplicationMain/ApplicationMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionOperationsImpl/CollectionOperationsImpl.iml" filepath="$PROJECT_DIR$/CollectionOperationsImpl/CollectionOperationsImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DbOperationsImpl/DbOperationsImpl.iml" filepath="$PROJECT_DIR$/DbOperationsImpl/DbOperationsImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MavenProgram.iml" filepath="$PROJECT_DIR$/MavenProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pojo/Pojo.iml" filepath="$PROJECT_DIR$/Pojo/Pojo.iml" />
+    </modules>
+  </component>
+</project>
